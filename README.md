@@ -6,7 +6,6 @@ DOVA is a modern single-page application (SPA) built from a PNG design, offering
 
 - **Responsive Design**: Optimized for all devices with mobile-first Tailwind CSS styling.
 - **Component-Based Architecture**: Modular Vue 3 components for maintainable and scalable code.
-- **Image-to-Code Conversion**: Directly translated from a PNG mockup to functional Vue components.
 
 ## Tech Stack
 
