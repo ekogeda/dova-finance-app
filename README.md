@@ -1,6 +1,8 @@
 # DOVA - Shariah-Compliant Finance App
 
-DOVA is a modern single-page application (SPA) built from a PNG design, offering Shariah-compliant financial solutions to help users save, invest, and build wealth ethically without Riba, using Vue 3 and Tailwind CSS for a responsive and secure experience.
+## DOVA: Shariah-Compliant Wealth Building application
+
+DOVA is a modern, high-performance Single-Page Application (SPA) designed to bridge the gap between ethical finance and digital innovation. Built with Vue 3 and Tailwind CSS, DOVA provides a seamless interface for users to save, invest, and grow their wealth without compromising their values.
 
 ## Features
 
