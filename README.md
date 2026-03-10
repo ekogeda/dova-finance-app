@@ -1,7 +1,5 @@
 # DOVA - Shariah-Compliant Finance App
 
-## DOVA: Shariah-Compliant Wealth Building application
-
 DOVA is a modern, high-performance Single-Page Application (SPA) designed to bridge the gap between ethical finance and digital innovation. It provides a seamless interface for users to save, invest, and grow their wealth without compromising their values.
 
 ## Live Demo
