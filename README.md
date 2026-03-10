@@ -4,6 +4,10 @@
 
 DOVA is a modern, high-performance Single-Page Application (SPA) designed to bridge the gap between ethical finance and digital innovation. It provides a seamless interface for users to save, invest, and grow their wealth without compromising their values.
 
+## Live Demo
+
+Check out the live demo: [https://dova-finance.netlify.app](https://dova-finance.netlify.app)
+
 ## Features
 
 - **Responsive Design**: Optimized for all devices with mobile-first Tailwind CSS styling.
@@ -30,3 +34,4 @@ DOVA is a modern, high-performance Single-Page Application (SPA) designed to bri
    git clone https://github.com/your-username/dova-shariah-finance-app.git
    cd dova-shariah-finance-app
    ```
+
